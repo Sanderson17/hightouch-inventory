@@ -9,7 +9,7 @@ namespace HightouchInventory
         public static void Main(string[] args)
 
         {
-            using (var reader = new StreamReader("/Users/sarahkleinanderson/Documents/KleintiquesInventoryManager/KleintiquesInventoryManager/KleintiquesInventory.csv"))
+            using (var reader = new StreamReader("/Users/sarahkleinanderson/Documents/hightouch-inventory/HighTouchInventory.csv"))
             using (var csv = new CsvHelper.CsvReader(reader, CultureInfo.InvariantCulture))
             {
                 var records = csv.GetRecords<Product>();

@@ -1,0 +1,21 @@
+ProductName,ProductCategory,ProductCost,ProductPrice,QuantityOnHand
+red couch,furniture,$100.00,$300.00,1
+dining chair,furniture,$10.00,$45.00,4
+oak table,furniture,$120.00,$275.00,1
+marble top table,furniture,$200.00,$350.00,1
+cabinet,furniture,$30.00,$60.00,1
+bookshelf,furniture,$35.00,$70.00,1
+dresser,furniture,$30.00,$80.00,1
+counter height barstool,furniture,$20.00,$45.00,3
+upholstered daybed,furniture,$80.00,$175.00,1
+hadley mug,houseware,$7.00,$20.00,33
+hadley plate,houseware,$8.00,$20.00,25
+derby glass,houseware,$5.00,$15.00,17
+lamp,houseware,$10.00,$30.00,8
+coffeemaker,houseware,$15.00,$30.00,3
+ceramic teapot,houseware,$15.00,$30.00,4
+blender,houseware,$20.00,$35.00,1
+angel figurine,trinket,$9.00,$20.00,25
+marble egg,trinket,$5.00,$15.00,30
+chinese fan,trinket,$3.00,$10.00,20
+gratitude rock,trinket,$4.00,$10.00,50
